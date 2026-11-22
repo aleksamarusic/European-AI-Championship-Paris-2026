@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+*.pth
+*.onnx
+*.npz
+.venv/
+task3/submission.pt
